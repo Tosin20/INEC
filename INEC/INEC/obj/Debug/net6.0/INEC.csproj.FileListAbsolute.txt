@@ -1,0 +1,15 @@
+C:\Users\Support\source\repos\INEC\INEC\obj\Debug\net6.0\INEC.csproj.AssemblyReference.cache
+C:\Users\Support\source\repos\INEC\INEC\obj\Debug\net6.0\INEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\source\repos\INEC\INEC\obj\Debug\net6.0\INEC.AssemblyInfoInputs.cache
+C:\Users\Support\source\repos\INEC\INEC\obj\Debug\net6.0\INEC.AssemblyInfo.cs
+C:\Users\Support\source\repos\INEC\INEC\obj\Debug\net6.0\INEC.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\repos\INEC\INEC\bin\Debug\net6.0\INEC.exe
+C:\Users\Support\source\repos\INEC\INEC\bin\Debug\net6.0\INEC.deps.json
+C:\Users\Support\source\repos\INEC\INEC\bin\Debug\net6.0\INEC.runtimeconfig.json
+C:\Users\Support\source\repos\INEC\INEC\bin\Debug\net6.0\INEC.dll
+C:\Users\Support\source\repos\INEC\INEC\bin\Debug\net6.0\INEC.pdb
+C:\Users\Support\source\repos\INEC\INEC\obj\Debug\net6.0\INEC.dll
+C:\Users\Support\source\repos\INEC\INEC\obj\Debug\net6.0\refint\INEC.dll
+C:\Users\Support\source\repos\INEC\INEC\obj\Debug\net6.0\INEC.pdb
+C:\Users\Support\source\repos\INEC\INEC\obj\Debug\net6.0\INEC.genruntimeconfig.cache
+C:\Users\Support\source\repos\INEC\INEC\obj\Debug\net6.0\ref\INEC.dll
